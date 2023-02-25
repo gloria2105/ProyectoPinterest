@@ -1,0 +1,68 @@
+.icono{
+    float: left;
+    height: 25px;
+    padding: 16px;
+}
+
+#Inicio{
+    float: left;
+    font-family: sans-serif;
+    font-size: medium;
+    padding: 10px;
+    
+}
+
+#Hoy{
+    float: left;
+    font-family: sans-serif;
+    font-size: medium;
+    padding: 10px;
+}
+
+#Crear{
+    float: left;
+    font-family: sans-serif;
+    font-size: medium;
+    padding: 10px;
+}
+
+.noti{
+    float: right;
+    padding: 20px;
+    
+    
+}
+
+#finder{
+    justify-content: center;
+    position: relative;
+    top: -55px;
+    right: -230px;
+    height: 40px;
+    width: 800px;
+    border-radius: 20px;
+    background-color: rgb(234, 233, 233);
+    padding-right: 15px;
+       
+}
+
+#content{
+    columns: 4;
+    column-gap: 10px;
+    column-width: 2em;
+    border-radius: 20px;
+    
+}
+
+img:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    text-shadow: 1px 1px 1px 1px rgb(234, 233, 233);
+
+}
+
+img{
+    border-radius: 20px;
+}
+
+
